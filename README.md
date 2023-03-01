@@ -1,0 +1,1 @@
+Não é um projeto específico para demonstrar algo, apenas meus estudos sobre navigation do React Native, que vou deixar aqui caso eu precise buscar alguma informação.
